@@ -19,8 +19,8 @@ O objetivo do projeto é mostrar como é possível, por meio de uma boa experiê
 
 - HTML5  
 - CSS3  
-- JavaScript *(opcional, se usar)*  
-- Figma *(caso tenha protótipo visual)*
+- JavaScript  
+
 
 ## 📁 Estrutura
 

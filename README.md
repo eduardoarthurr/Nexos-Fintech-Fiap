@@ -19,7 +19,8 @@ O objetivo do projeto é mostrar como é possível, por meio de uma boa experiê
 
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+- Framework Bootstrap 
 
 
 ## 📁 Estrutura
